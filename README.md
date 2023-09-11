@@ -27,14 +27,14 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot_desktop.jpeg)
-![](./screenshot_desktop_error.jpg)
+![](./screenshot_desktop_error.jpeg)
 ![](./screenshot_mobile.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/landing-page-with-signup-form-wgzK1qqLXp)
+- Live Site URL: [Github Pages](https://gabirueitz.github.io/intro-with-signup-form/)
 
 ## My process
 
